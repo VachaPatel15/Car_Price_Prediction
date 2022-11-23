@@ -1,0 +1,19 @@
+.{
+    margin :0;
+    padding:0;
+    box-sizing:border-box;
+}
+.bg-dark{
+    background-color:#121CA6;
+    margin:10px;
+    padding:10px;
+}
+.mt-50{
+    margin-top:50px;
+}
+.card-body{
+    margin:50px;
+}
+*{
+    margin:10px;
+}
